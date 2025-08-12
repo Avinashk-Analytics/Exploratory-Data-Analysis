@@ -51,6 +51,7 @@ Converted categorical features to the correct data types.
 
 
 **3️⃣ Exploratory Data Analysis**
+
 Univariate Analysis – Distribution of numerical and categorical variables.
 
 Bivariate Analysis – Relationship between features and survival.
